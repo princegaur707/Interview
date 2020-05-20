@@ -4,4 +4,6 @@ class Solution:
             return False
         from math import floor,ceil,sqrt
         x = log10(n)/log10(3)
+        return floor(x) == ceil(x)
+
         
