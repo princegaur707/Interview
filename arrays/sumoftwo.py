@@ -17,3 +17,12 @@ def Add(x, y):
 	return x 
 
 print(Add(15, 32)) 
+
+#Recursive solution
+int Add(int x, int y) 
+{ 
+	if (y == 0) 
+		return x; 
+	else
+		return Add( x ^ y, (x & y) << 1); 
+} 
