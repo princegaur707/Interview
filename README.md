@@ -1,16 +1,21 @@
 # Interview
+Mathematics
 Binary
 Array
-Searching and sorting
 Strings
+Searching and sorting
 Matrix
 Bit Magic
 Recursion
 Linked list, Stack, Queue
 Hashing
-Trees
+Tree
 BST
 Heap
 Graph
 Dynamic Programming
 Trie
+Object Oriented Programming
+Geometry
+Recursion
+Permutation
